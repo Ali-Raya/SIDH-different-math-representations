@@ -3,7 +3,7 @@
 
 This repository illustrates the impact of using different mathematical representations on the running time of SIDH protocol 
 ## Description of the implementation:
-- FP2.ipynp: contains the arithmetic of $F_P$ and $F_P^2$ is implemented using gmpy2 module.
+- FP2.ipynp: contains the arithmetic of $F_P$ and $F_P^2$ which is implemented using gmpy2 module.
 - 1.EW-short_Weierestress_Final_Real_world_example-implemented-DEMO.ipynb contains the implementation of SIDH where the arithmetic of affine short Weierstrass curve is used.
 - 2.EM_Affine_Coordinates_Real_world_examples_DEMO.ipynb contains the implementation of SIDH where the arithmetic of the affine Montgomery curve is used.
 - 3.EM_Projected_coordinates_Real_world_examples_without_strategies.ipynb contains the implementation of projecetd curve is used.
